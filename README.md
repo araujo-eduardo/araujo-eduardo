@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Araújo!
 
-- 🌱 Eu sou um desenvolvedor full-stack e trabalho com React JS, Angulas, NodeJS, SQL Server, MySQL, MongoDB.
+- 🌱 Eu sou um desenvolvedor full-stack e trabalho com React JS, Angular, NodeJS, SQL Server, MySQL, MongoDB.
 
 <div align="center">
   <a href="https://github.com/araujo-eduardo">
